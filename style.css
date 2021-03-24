@@ -96,6 +96,7 @@
 #search_jobs .search_jobs_details .tasks li{
 	margin-left: 30px; 
 	padding-left: 5px; 
+	border-style:solid;
 }
 #search_jobs .search_jobs_details .hours_earnings{
 	overflow-x: auto;
