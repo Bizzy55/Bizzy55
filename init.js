@@ -16,7 +16,7 @@ var empty_field_msg = 'Please fill search field';
 var loading_msg = 'Loading...';
 var no_data = 'No Data';
 
-var API_url = 'http://api.lmiforall.org.uk/api/v1/';
+var API_url = 'https://api.lmiforall.org.uk/api/v1/';
 var soc_url = API_url+'soc/search';
 var ashe_hours_url = API_url+'ashe/estimateHours';
 var ashe_pay_url = API_url+'ashe/estimatePay';
