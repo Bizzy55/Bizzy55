@@ -13,7 +13,7 @@ if($_container.length == 0)return;
 var empty_result_msg = 'Data not available';
 var not_exist_msg = 'Data not exists for this job';
 var empty_field_msg = 'Please fill search field';
-var loading_msg = 'Loading...';
+var loading_msg = 'Loadingx...';
 var no_data = 'No Data';
 
 var API_url = 'http://api.lmiforall.org.uk/api/v1/';
