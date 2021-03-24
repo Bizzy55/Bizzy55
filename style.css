@@ -165,6 +165,7 @@
 	text-align: center;
 	display: none;
 	margin-top: 20px;
+	border-style:solid;
 }
 @media print{
 	#search_jobs .search_jobs_details .item{
